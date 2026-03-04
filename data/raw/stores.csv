@@ -1,0 +1,21 @@
+store_code,store_name,region,state
+S001,Store 1,South,FL
+S002,Store 2,East,GA
+S003,Store 3,South,MA
+S004,Store 4,East,CA
+S005,Store 5,North,CA
+S006,Store 6,North,IL
+S007,Store 7,North,MA
+S008,Store 8,North,FL
+S009,Store 9,South,GA
+S010,Store 10,East,IL
+S011,Store 11,North,CA
+S012,Store 12,North,MA
+S013,Store 13,North,NY
+S014,Store 14,North,MA
+S015,Store 15,South,NY
+S016,Store 16,South,GA
+S017,Store 17,South,NY
+S018,Store 18,West,NY
+S019,Store 19,North,NY
+S020,Store 20,South,FL
